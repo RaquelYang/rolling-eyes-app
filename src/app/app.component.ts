@@ -14,7 +14,7 @@ export class AppComponent implements OnInit {
 
     ngOnInit(): void {
         const a = 123;
-        const Multiple = 123;
+        // const multiple = 123;
         const aApplee = 'aaa';
         console.log('a', a);
         console.log('a', aApplee);

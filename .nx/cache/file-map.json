@@ -37,6 +37,9 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "prettier": "3.1.0",
+    "stylelint": "^15.11.0",
+    "stylelint-config-recommended": "^13.0.0",
+    "stylelint-config-sass-guidelines": "^10.0.0",
     "typescript": "~5.2.2"
   },
   "pathMappings": {},
@@ -58,27 +61,31 @@
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "10849059276964856941"
+        "hash": "11173983289379952793"
       },
       {
         "file": ".nx/cache/lockfile.hash",
-        "hash": "6869937527189113040"
+        "hash": "2752020205074264187"
       },
       {
         "file": ".nx/cache/parsed-lock-file.json",
-        "hash": "13428521176989819193"
+        "hash": "8051675934012694715"
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "1456222456329993181"
+        "hash": "6321650478300526527"
       },
       {
         "file": ".prettierrc",
         "hash": "14776994190754480048"
       },
       {
+        "file": ".stylelintrc.json",
+        "hash": "13084908497196074313"
+      },
+      {
         "file": ".vscode/extensions.json",
-        "hash": "17266603506114495729"
+        "hash": "10059674528584542873"
       },
       {
         "file": ".vscode/launch.json",
@@ -98,11 +105,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "13248106429795589180"
+        "hash": "14659372644309436560"
       },
       {
         "file": "package.json",
-        "hash": "13137413464432974117"
+        "hash": "1179661729014829827"
       },
       {
         "file": "server.ts",
@@ -114,7 +121,7 @@
       },
       {
         "file": "src/app/app.component.scss",
-        "hash": "3244421341483603138"
+        "hash": "3358497823584202008"
       },
       {
         "file": "src/app/app.component.spec.ts",
@@ -122,7 +129,7 @@
       },
       {
         "file": "src/app/app.component.ts",
-        "hash": "13798922349720183181"
+        "hash": "5391851226365164827"
       },
       {
         "file": "src/app/app.config.server.ts",
