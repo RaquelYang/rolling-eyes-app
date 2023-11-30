@@ -1,19 +1,20 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
-import { HttpClient } from '@angular/common/http';
+// import { HttpClient } from '@angular/common/http';
+import { MatButtonModule } from '@angular/material/button';
 
 @Component({
     selector: 'app-root',
     standalone: true,
-    imports: [CommonModule, RouterOutlet],
+    imports: [CommonModule, RouterOutlet, MatButtonModule],
     templateUrl: './app.component.html',
     styleUrl: './app.component.scss',
 })
 export class AppComponent implements OnInit {
     title = 'rolling-eyes-app';
 
-    constructor(private http: HttpClient) {}
+    // constructor(private http: HttpClient) {}
 
     ngOnInit(): void {
         const a = 123;
@@ -33,8 +34,8 @@ export class AppComponent implements OnInit {
       @link 定義鏈接另一個方法、文檔或外部鏈接
       @ignore 表示標記的內容永遠不會出現在文檔中
      */
-    getAPI(aaa: string): void {
-        console.log('aaa', aaa);
-        this.http.get('aaa');
-    }
+    // getAPI(aaa: string): void {
+    //     console.log('aaa', aaa);
+    //     this.http.get('aaa');
+    // }
 }

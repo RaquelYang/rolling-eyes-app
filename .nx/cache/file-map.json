@@ -3,10 +3,12 @@
   "nxVersion": "17.1.2",
   "deps": {
     "@angular/animations": "^17.0.0",
+    "@angular/cdk": "^17.0.1",
     "@angular/common": "^17.0.0",
     "@angular/compiler": "^17.0.0",
     "@angular/core": "^17.0.0",
     "@angular/forms": "^17.0.0",
+    "@angular/material": "^17.0.1",
     "@angular/platform-browser": "^17.0.0",
     "@angular/platform-browser-dynamic": "^17.0.0",
     "@angular/platform-server": "^17.0.0",
@@ -50,7 +52,7 @@
     "nonProjectFiles": [
       {
         "file": ".compodocrc",
-        "hash": "7918903554577246713"
+        "hash": "10159393653728407886"
       },
       {
         "file": ".editorconfig",
@@ -66,19 +68,19 @@
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "16910787555800040228"
+        "hash": "10819843531133079467"
       },
       {
         "file": ".nx/cache/lockfile.hash",
-        "hash": "2752020205074264187"
+        "hash": "16028864916235368180"
       },
       {
         "file": ".nx/cache/parsed-lock-file.json",
-        "hash": "8051675934012694715"
+        "hash": "2424245600913240230"
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "6321650478300526527"
+        "hash": "6099167429760078216"
       },
       {
         "file": ".prettierrc",
@@ -454,15 +456,15 @@
       },
       {
         "file": "angular.json",
-        "hash": "17065662922335163360"
+        "hash": "8975282260888582156"
       },
       {
         "file": "package-lock.json",
-        "hash": "2110679603075542632"
+        "hash": "52208927838240644"
       },
       {
         "file": "package.json",
-        "hash": "9894218234962455066"
+        "hash": "17426633834197651597"
       },
       {
         "file": "server.ts",
@@ -482,7 +484,7 @@
       },
       {
         "file": "src/app/app.component.ts",
-        "hash": "5391851226365164827"
+        "hash": "17714205613831198847"
       },
       {
         "file": "src/app/app.config.server.ts",
@@ -490,7 +492,7 @@
       },
       {
         "file": "src/app/app.config.ts",
-        "hash": "11821239874568871925"
+        "hash": "9914684919960579397"
       },
       {
         "file": "src/app/app.routes.ts",
@@ -506,7 +508,7 @@
       },
       {
         "file": "src/index.html",
-        "hash": "7575753389820486704"
+        "hash": "1942424211051999451"
       },
       {
         "file": "src/main.server.ts",
@@ -518,7 +520,7 @@
       },
       {
         "file": "src/styles.scss",
-        "hash": "5195668842064076916"
+        "hash": "9525514396149276363"
       },
       {
         "file": "tsconfig.app.json",
