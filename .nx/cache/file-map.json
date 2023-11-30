@@ -73,19 +73,19 @@
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "10819843531133079467"
+        "hash": "17008779280770215434"
       },
       {
         "file": ".nx/cache/lockfile.hash",
-        "hash": "16028864916235368180"
+        "hash": "11078913499251318534"
       },
       {
         "file": ".nx/cache/parsed-lock-file.json",
-        "hash": "2424245600913240230"
+        "hash": "1385218527428359794"
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "6099167429760078216"
+        "hash": "1316149996903246699"
       },
       {
         "file": ".prettierrc",
@@ -461,15 +461,19 @@
       },
       {
         "file": "angular.json",
-        "hash": "8975282260888582156"
+        "hash": "4127914484764301248"
+      },
+      {
+        "file": "ionic.config.json",
+        "hash": "13896332500945298423"
       },
       {
         "file": "package-lock.json",
-        "hash": "52208927838240644"
+        "hash": "18139823387235567456"
       },
       {
         "file": "package.json",
-        "hash": "17426633834197651597"
+        "hash": "1565359470065272444"
       },
       {
         "file": "server.ts",
@@ -477,7 +481,7 @@
       },
       {
         "file": "src/app/app.component.html",
-        "hash": "6880513722212066549"
+        "hash": "15242217049906168025"
       },
       {
         "file": "src/app/app.component.scss",
@@ -489,7 +493,7 @@
       },
       {
         "file": "src/app/app.component.ts",
-        "hash": "17714205613831198847"
+        "hash": "9080585626911204666"
       },
       {
         "file": "src/app/app.config.server.ts",
@@ -497,7 +501,7 @@
       },
       {
         "file": "src/app/app.config.ts",
-        "hash": "9914684919960579397"
+        "hash": "6615321539294424482"
       },
       {
         "file": "src/app/app.routes.ts",
@@ -525,7 +529,15 @@
       },
       {
         "file": "src/styles.scss",
-        "hash": "9525514396149276363"
+        "hash": "14727710659364488608"
+      },
+      {
+        "file": "src/theme/variables.css",
+        "hash": "3881375658511814670"
+      },
+      {
+        "file": "tailwind.config.js",
+        "hash": "726519995289944200"
       },
       {
         "file": "tsconfig.app.json",

@@ -81,6 +81,15 @@
         "hash": "sha512-tg1+deEZdm3fgk2BQ6y7tujciL6qhtN5Ums266lX//kAZeZ4nNNXTBT+oY5xgfjvmLbW+xKg0XZrAS0oIRKY5g=="
       }
     },
+    "npm:@angular-devkit/core@16.2.10": {
+      "type": "npm",
+      "name": "npm:@angular-devkit/core@16.2.10",
+      "data": {
+        "version": "16.2.10",
+        "packageName": "@angular-devkit/core",
+        "hash": "sha512-eo7suLDjyu5bSlEr4TluYkFm4v2PVLSAPgnau8XHHlN5Yg4P/BZ00ve7LA7C9S1gzRSCrxQhK5ki4rnoFTo5zg=="
+      }
+    },
     "npm:@angular-devkit/schematics": {
       "type": "npm",
       "name": "npm:@angular-devkit/schematics",
@@ -97,6 +106,15 @@
         "version": "14.2.12",
         "packageName": "@angular-devkit/schematics",
         "hash": "sha512-MN5yGR+SSSPPBBVMf4cifDJn9u0IYvxiHst+HWokH2AkBYy+vB1x8jYES2l1wkiISD7nvjTixfqX+Y95oMBoLg=="
+      }
+    },
+    "npm:@angular-devkit/schematics@16.2.10": {
+      "type": "npm",
+      "name": "npm:@angular-devkit/schematics@16.2.10",
+      "data": {
+        "version": "16.2.10",
+        "packageName": "@angular-devkit/schematics",
+        "hash": "sha512-UCfPJKVNekb21bWRbzyx81tfHN3x8vU4ZMX/VA6xALg//QalMB7NOkkXBAssthnLastkyzkUtlvApTp2+R+EkQ=="
       }
     },
     "npm:@angular-eslint/builder": {
@@ -1800,6 +1818,15 @@
         "hash": "sha512-NzzlXpclt5zAbmo6h6jNc8zl2gNRGHvmsZW4IvZhTC4W7k4OlLP+S5YLussa/r3ixNT66KOQfNORlXHSOy/X4A=="
       }
     },
+    "npm:magic-string@0.30.1": {
+      "type": "npm",
+      "name": "npm:magic-string@0.30.1",
+      "data": {
+        "version": "0.30.1",
+        "packageName": "magic-string",
+        "hash": "sha512-mbVKXPmS0z0G4XqFDCTllmDQ6coZzn94aMlb0o/A4HEHJCKcanlDZwYJgwnkmgD3jyWhUgj9VsPrfd972yPffA=="
+      }
+    },
     "npm:magic-string": {
       "type": "npm",
       "name": "npm:magic-string",
@@ -2844,6 +2871,51 @@
         "hash": "sha512-X7/B0N/l0nLc9r2irbSaDbVrYeFJ67hLV7oeRKQJHmeqoAHMDAm7M0t5xEZXE224yRoshZJJYnP7Ppbcfc+V9w=="
       }
     },
+    "npm:@ionic/angular-toolkit": {
+      "type": "npm",
+      "name": "npm:@ionic/angular-toolkit",
+      "data": {
+        "version": "10.0.0",
+        "packageName": "@ionic/angular-toolkit",
+        "hash": "sha512-F72mvfCHEMQ/eFEgQfiIQQ7B9BLIBBS/Jjegk6UJJb/uMwgNOJG5KyHw6vaoSiBmLnHuPqLvnoz6DXJCrbKl0A=="
+      }
+    },
+    "npm:@schematics/angular@16.2.10": {
+      "type": "npm",
+      "name": "npm:@schematics/angular@16.2.10",
+      "data": {
+        "version": "16.2.10",
+        "packageName": "@schematics/angular",
+        "hash": "sha512-PXmoswvN7qknTsXDmEvhZ9UG+awwWnQ/1Jd/eqqQx08iAaAT81OsXj1bN7eSs6tEGBKGjPb6q2xzuiECAdymzg=="
+      }
+    },
+    "npm:@schematics/angular": {
+      "type": "npm",
+      "name": "npm:@schematics/angular",
+      "data": {
+        "version": "17.0.5",
+        "packageName": "@schematics/angular",
+        "hash": "sha512-sOc1UG4NiV+7cGwrbWPnyW71O+NgsKaFb2agSrVduRL7o4neMDeqF04ik4Kv1jKA7sZOQfPV+3cn6XI49Mumrw=="
+      }
+    },
+    "npm:picomatch@2.3.1": {
+      "type": "npm",
+      "name": "npm:picomatch@2.3.1",
+      "data": {
+        "version": "2.3.1",
+        "packageName": "picomatch",
+        "hash": "sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA=="
+      }
+    },
+    "npm:picomatch": {
+      "type": "npm",
+      "name": "npm:picomatch",
+      "data": {
+        "version": "3.0.1",
+        "packageName": "picomatch",
+        "hash": "sha512-I3EurrIQMlRc9IaAZnqRR044Phh2DXY+55o7uJ0V+hYZAcQYSuFWsc9q5PvyDHUSCe1Qxn/iBz+78s86zWnGag=="
+      }
+    },
     "npm:@ionic/core": {
       "type": "npm",
       "name": "npm:@ionic/core",
@@ -3825,15 +3897,6 @@
         "hash": "sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg=="
       }
     },
-    "npm:@schematics/angular": {
-      "type": "npm",
-      "name": "npm:@schematics/angular",
-      "data": {
-        "version": "17.0.5",
-        "packageName": "@schematics/angular",
-        "hash": "sha512-sOc1UG4NiV+7cGwrbWPnyW71O+NgsKaFb2agSrVduRL7o4neMDeqF04ik4Kv1jKA7sZOQfPV+3cn6XI49Mumrw=="
-      }
-    },
     "npm:@sigstore/bundle": {
       "type": "npm",
       "name": "npm:@sigstore/bundle",
@@ -4741,24 +4804,6 @@
         "version": "3.1.3",
         "packageName": "anymatch",
         "hash": "sha512-KMReFUr0B4t+D+OBkjR3KYqvocp2XaSzO55UcB6mgQMd3KbcE+mWTyvVV7D/zsdEbNnV6acZUutkiHQXvTr1Rw=="
-      }
-    },
-    "npm:picomatch@2.3.1": {
-      "type": "npm",
-      "name": "npm:picomatch@2.3.1",
-      "data": {
-        "version": "2.3.1",
-        "packageName": "picomatch",
-        "hash": "sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA=="
-      }
-    },
-    "npm:picomatch": {
-      "type": "npm",
-      "name": "npm:picomatch",
-      "data": {
-        "version": "3.0.1",
-        "packageName": "picomatch",
-        "hash": "sha512-I3EurrIQMlRc9IaAZnqRR044Phh2DXY+55o7uJ0V+hYZAcQYSuFWsc9q5PvyDHUSCe1Qxn/iBz+78s86zWnGag=="
       }
     },
     "npm:apache-crypt": {
@@ -16585,6 +16630,101 @@
     {
       "source": "npm:@ionic/angular",
       "target": "npm:tslib",
+      "type": "static"
+    },
+    {
+      "source": "npm:@ionic/angular-toolkit",
+      "target": "npm:@angular-devkit/core@16.2.10",
+      "type": "static"
+    },
+    {
+      "source": "npm:@ionic/angular-toolkit",
+      "target": "npm:@angular-devkit/schematics@16.2.10",
+      "type": "static"
+    },
+    {
+      "source": "npm:@ionic/angular-toolkit",
+      "target": "npm:@schematics/angular@16.2.10",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/core@16.2.10",
+      "target": "npm:chokidar",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/core@16.2.10",
+      "target": "npm:ajv",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/core@16.2.10",
+      "target": "npm:ajv-formats",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/core@16.2.10",
+      "target": "npm:jsonc-parser",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/core@16.2.10",
+      "target": "npm:picomatch@2.3.1",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/core@16.2.10",
+      "target": "npm:rxjs",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/core@16.2.10",
+      "target": "npm:source-map",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/schematics@16.2.10",
+      "target": "npm:@angular-devkit/core@16.2.10",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/schematics@16.2.10",
+      "target": "npm:jsonc-parser",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/schematics@16.2.10",
+      "target": "npm:magic-string@0.30.1",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/schematics@16.2.10",
+      "target": "npm:ora",
+      "type": "static"
+    },
+    {
+      "source": "npm:@angular-devkit/schematics@16.2.10",
+      "target": "npm:rxjs",
+      "type": "static"
+    },
+    {
+      "source": "npm:@schematics/angular@16.2.10",
+      "target": "npm:@angular-devkit/core@16.2.10",
+      "type": "static"
+    },
+    {
+      "source": "npm:@schematics/angular@16.2.10",
+      "target": "npm:@angular-devkit/schematics@16.2.10",
+      "type": "static"
+    },
+    {
+      "source": "npm:@schematics/angular@16.2.10",
+      "target": "npm:jsonc-parser",
+      "type": "static"
+    },
+    {
+      "source": "npm:magic-string@0.30.1",
+      "target": "npm:@jridgewell/sourcemap-codec",
       "type": "static"
     },
     {
