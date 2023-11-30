@@ -3,16 +3,40 @@ import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 // import { HttpClient } from '@angular/common/http';
 import { MatButtonModule } from '@angular/material/button';
+import { IonicModule } from '@ionic/angular';
 
 @Component({
     selector: 'app-root',
     standalone: true,
-    imports: [CommonModule, RouterOutlet, MatButtonModule],
+    imports: [CommonModule, RouterOutlet, MatButtonModule, IonicModule],
     templateUrl: './app.component.html',
     styleUrl: './app.component.scss',
 })
 export class AppComponent implements OnInit {
     title = 'rolling-eyes-app';
+
+    public actionSheetButtons = [
+        {
+            text: 'Delete',
+            role: 'destructive',
+            data: {
+                action: 'delete',
+            },
+        },
+        {
+            text: 'Share',
+            data: {
+                action: 'share',
+            },
+        },
+        {
+            text: 'Cancel',
+            role: 'cancel',
+            data: {
+                action: 'cancel',
+            },
+        },
+    ];
 
     // constructor(private http: HttpClient) {}
 
