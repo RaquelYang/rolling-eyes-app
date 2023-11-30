@@ -1,0 +1,11 @@
+{
+    "output": "./_compodoc/_document",
+    "tsconfig": "./tsconfig.doc.json",
+    "assetsFolder": "./_compodoc/assets",
+    "name": "The Document",
+    "port": "3001",
+    "theme": "Vagrant",
+    "disableRoutesGraph": true,
+    "disableDependencies": true,
+
+}

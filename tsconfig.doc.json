@@ -1,0 +1,13 @@
+{
+  "include": [
+        "../src/**/*.ts"
+    ],
+    "exclude": [
+      "../node_modules/",
+      "../src/assets/",
+      "../src/**/core.module.ts",
+      "../src/**/*-routing.module.ts",
+      "../src/**/*.spec.ts",
+      "../src/test.ts"
+    ]
+}

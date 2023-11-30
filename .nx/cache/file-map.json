@@ -24,6 +24,7 @@
     "@angular-eslint/template-parser": "17.1.0",
     "@angular/cli": "^17.0.3",
     "@angular/compiler-cli": "^17.0.0",
+    "@compodoc/compodoc": "^1.1.23",
     "@types/express": "^4.17.17",
     "@types/jasmine": "~5.1.0",
     "@types/node": "^18.18.0",
@@ -48,6 +49,10 @@
     "projectFileMap": {},
     "nonProjectFiles": [
       {
+        "file": ".compodocrc",
+        "hash": "7918903554577246713"
+      },
+      {
         "file": ".editorconfig",
         "hash": "6686520031028425313"
       },
@@ -61,7 +66,7 @@
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "11173983289379952793"
+        "hash": "16910787555800040228"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -100,16 +105,364 @@
         "hash": "11647221140856827005"
       },
       {
+        "file": "_compodoc/_document/components/AppComponent.html",
+        "hash": "10867607288261165529"
+      },
+      {
+        "file": "_compodoc/_document/coverage.html",
+        "hash": "14391441117009805763"
+      },
+      {
+        "file": "_compodoc/_document/fonts/ionicons.eot",
+        "hash": "11954292315687035285"
+      },
+      {
+        "file": "_compodoc/_document/fonts/ionicons.svg",
+        "hash": "3340431163026388236"
+      },
+      {
+        "file": "_compodoc/_document/fonts/ionicons.ttf",
+        "hash": "9482225794616543832"
+      },
+      {
+        "file": "_compodoc/_document/fonts/ionicons.woff",
+        "hash": "10215852456567241679"
+      },
+      {
+        "file": "_compodoc/_document/fonts/ionicons.woff2",
+        "hash": "11311683446494265812"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-300.eot",
+        "hash": "16970012345764992539"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-300.svg",
+        "hash": "16621530187070219625"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-300.ttf",
+        "hash": "6723283691141535943"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-300.woff",
+        "hash": "5551725997763169280"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-300.woff2",
+        "hash": "14268032398072346110"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-700.eot",
+        "hash": "16058052300924999321"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-700.svg",
+        "hash": "11747120382012311933"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-700.ttf",
+        "hash": "5352514732871671459"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-700.woff",
+        "hash": "5844094029798307855"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-700.woff2",
+        "hash": "1410963700615895184"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-italic.eot",
+        "hash": "15098770303203122150"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-italic.svg",
+        "hash": "12774300922482266867"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-italic.ttf",
+        "hash": "4417700308891305617"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-italic.woff",
+        "hash": "5050951999862935083"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-italic.woff2",
+        "hash": "6682708430513662803"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-regular.eot",
+        "hash": "4556119219014855615"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-regular.svg",
+        "hash": "661617242628878322"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-regular.ttf",
+        "hash": "6355862180977459781"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-regular.woff",
+        "hash": "1398560205593287051"
+      },
+      {
+        "file": "_compodoc/_document/fonts/roboto-v15-latin-regular.woff2",
+        "hash": "6009251489912774712"
+      },
+      {
+        "file": "_compodoc/_document/graph/dependencies.svg",
+        "hash": "17277114676488850317"
+      },
+      {
+        "file": "_compodoc/_document/images/compodoc-vectorise-inverted.png",
+        "hash": "5020586271611239710"
+      },
+      {
+        "file": "_compodoc/_document/images/compodoc-vectorise-inverted.svg",
+        "hash": "9691278676200660925"
+      },
+      {
+        "file": "_compodoc/_document/images/compodoc-vectorise.png",
+        "hash": "6670940543257439260"
+      },
+      {
+        "file": "_compodoc/_document/images/compodoc-vectorise.svg",
+        "hash": "3594014934509636990"
+      },
+      {
+        "file": "_compodoc/_document/images/coverage-badge-documentation.svg",
+        "hash": "5291836764592823527"
+      },
+      {
+        "file": "_compodoc/_document/images/favicon.ico",
+        "hash": "8237334056690247575"
+      },
+      {
+        "file": "_compodoc/_document/index.html",
+        "hash": "15357500016407943188"
+      },
+      {
+        "file": "_compodoc/_document/js/compodoc.js",
+        "hash": "10684543567999230723"
+      },
+      {
+        "file": "_compodoc/_document/js/lazy-load-graphs.js",
+        "hash": "18104119365023483720"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/EventDispatcher.js",
+        "hash": "341132572343249511"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/bootstrap-native.js",
+        "hash": "4742517330424662150"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/clipboard.min.js",
+        "hash": "341809361052209031"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/custom-elements-es5-adapter.js",
+        "hash": "3080178796027856086"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/custom-elements.min.js",
+        "hash": "1008185804685308610"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/d3.v3.min.js",
+        "hash": "3067344638421829603"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/deep-iterator.js",
+        "hash": "17034728201294668941"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/es6-shim.min.js",
+        "hash": "14466809616348507839"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/htmlparser.js",
+        "hash": "12898806473533619279"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/innersvg.js",
+        "hash": "14049310177573401809"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/lit-html.js",
+        "hash": "6258091497474886715"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/prism.js",
+        "hash": "16252263252489834593"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/promise.min.js",
+        "hash": "9671625068078925510"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/svg-pan-zoom.min.js",
+        "hash": "7581361919641813320"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/tablesort.min.js",
+        "hash": "14721979311067848234"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/tablesort.number.min.js",
+        "hash": "3202589431264698402"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/vis.min.js",
+        "hash": "690286842441916556"
+      },
+      {
+        "file": "_compodoc/_document/js/libs/zepto.min.js",
+        "hash": "14779589039182381899"
+      },
+      {
+        "file": "_compodoc/_document/js/menu-wc.js",
+        "hash": "5787971870019041887"
+      },
+      {
+        "file": "_compodoc/_document/js/menu-wc_es5.js",
+        "hash": "8415699321047925312"
+      },
+      {
+        "file": "_compodoc/_document/js/menu.js",
+        "hash": "10421674651287702357"
+      },
+      {
+        "file": "_compodoc/_document/js/routes.js",
+        "hash": "5571022418870747754"
+      },
+      {
+        "file": "_compodoc/_document/js/search/lunr.min.js",
+        "hash": "12108969974796811302"
+      },
+      {
+        "file": "_compodoc/_document/js/search/search-lunr.js",
+        "hash": "15719610168440482435"
+      },
+      {
+        "file": "_compodoc/_document/js/search/search.js",
+        "hash": "11978150645261218124"
+      },
+      {
+        "file": "_compodoc/_document/js/search/search_index.js",
+        "hash": "8063580890204771873"
+      },
+      {
+        "file": "_compodoc/_document/js/sourceCode.js",
+        "hash": "11920356499394899358"
+      },
+      {
+        "file": "_compodoc/_document/js/svg-pan-zoom.controls.js",
+        "hash": "7242360966241421800"
+      },
+      {
+        "file": "_compodoc/_document/js/tabs.js",
+        "hash": "5129870167565559261"
+      },
+      {
+        "file": "_compodoc/_document/js/tree.js",
+        "hash": "13847996334257071471"
+      },
+      {
+        "file": "_compodoc/_document/miscellaneous/variables.html",
+        "hash": "9024754826081361578"
+      },
+      {
+        "file": "_compodoc/_document/modules.html",
+        "hash": "15313448953567923440"
+      },
+      {
+        "file": "_compodoc/_document/overview.html",
+        "hash": "15348384508478976715"
+      },
+      {
+        "file": "_compodoc/_document/properties.html",
+        "hash": "16227050291027005454"
+      },
+      {
+        "file": "_compodoc/_document/styles/bootstrap-card.css",
+        "hash": "8425753481203753724"
+      },
+      {
+        "file": "_compodoc/_document/styles/bootstrap.min.css",
+        "hash": "1773960718099424813"
+      },
+      {
+        "file": "_compodoc/_document/styles/compodoc.css",
+        "hash": "3980872439539265738"
+      },
+      {
+        "file": "_compodoc/_document/styles/dark.css",
+        "hash": "5273445974341221538"
+      },
+      {
+        "file": "_compodoc/_document/styles/ionicons.min.css",
+        "hash": "2220568294046488706"
+      },
+      {
+        "file": "_compodoc/_document/styles/laravel.css",
+        "hash": "15113996174915406928"
+      },
+      {
+        "file": "_compodoc/_document/styles/material.css",
+        "hash": "15807253854462718523"
+      },
+      {
+        "file": "_compodoc/_document/styles/original.css",
+        "hash": "1881841684982186916"
+      },
+      {
+        "file": "_compodoc/_document/styles/postmark.css",
+        "hash": "12743018665122170840"
+      },
+      {
+        "file": "_compodoc/_document/styles/prism.css",
+        "hash": "15012979331926537787"
+      },
+      {
+        "file": "_compodoc/_document/styles/readthedocs.css",
+        "hash": "4324259331469061412"
+      },
+      {
+        "file": "_compodoc/_document/styles/reset.css",
+        "hash": "9398766951126602820"
+      },
+      {
+        "file": "_compodoc/_document/styles/stripe.css",
+        "hash": "11195358147291901967"
+      },
+      {
+        "file": "_compodoc/_document/styles/style.css",
+        "hash": "73213024445309292"
+      },
+      {
+        "file": "_compodoc/_document/styles/tablesort.css",
+        "hash": "5331184185500011181"
+      },
+      {
+        "file": "_compodoc/_document/styles/vagrant.css",
+        "hash": "5511005555385148674"
+      },
+      {
         "file": "angular.json",
         "hash": "17065662922335163360"
       },
       {
         "file": "package-lock.json",
-        "hash": "14659372644309436560"
+        "hash": "2110679603075542632"
       },
       {
         "file": "package.json",
-        "hash": "1179661729014829827"
+        "hash": "9894218234962455066"
       },
       {
         "file": "server.ts",
@@ -121,7 +474,7 @@
       },
       {
         "file": "src/app/app.component.scss",
-        "hash": "3358497823584202008"
+        "hash": "14201716356018891186"
       },
       {
         "file": "src/app/app.component.spec.ts",
@@ -170,6 +523,10 @@
       {
         "file": "tsconfig.app.json",
         "hash": "17948364081101022842"
+      },
+      {
+        "file": "tsconfig.doc.json",
+        "hash": "776378039216626634"
       },
       {
         "file": "tsconfig.json",
