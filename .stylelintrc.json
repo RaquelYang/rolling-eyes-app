@@ -1,5 +1,7 @@
 {
     "extends": ["stylelint-config-recommended", "stylelint-config-sass-guidelines"],
     "ignoreFiles": ["src/assets/**/*.scss"],
-    "rules": {}
+    "rules": {
+        "color-hex-length": "long"
+    }
 }

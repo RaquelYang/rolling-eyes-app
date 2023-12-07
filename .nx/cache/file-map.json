@@ -73,19 +73,19 @@
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "17008779280770215434"
+        "hash": "4401811578016234384"
       },
       {
         "file": ".nx/cache/lockfile.hash",
-        "hash": "11078913499251318534"
+        "hash": "1303661494976517301"
       },
       {
         "file": ".nx/cache/parsed-lock-file.json",
-        "hash": "1385218527428359794"
+        "hash": "16708958641720103889"
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "1316149996903246699"
+        "hash": "5333332917280007457"
       },
       {
         "file": ".prettierrc",
@@ -465,7 +465,7 @@
       },
       {
         "file": "ionic.config.json",
-        "hash": "13896332500945298423"
+        "hash": "4914571479384889376"
       },
       {
         "file": "package-lock.json",
@@ -481,11 +481,11 @@
       },
       {
         "file": "src/app/app.component.html",
-        "hash": "15242217049906168025"
+        "hash": "1509937607520160809"
       },
       {
         "file": "src/app/app.component.scss",
-        "hash": "14201716356018891186"
+        "hash": "15227891102240209694"
       },
       {
         "file": "src/app/app.component.spec.ts",
@@ -517,7 +517,7 @@
       },
       {
         "file": "src/index.html",
-        "hash": "1942424211051999451"
+        "hash": "17501940058443890001"
       },
       {
         "file": "src/main.server.ts",
@@ -529,7 +529,7 @@
       },
       {
         "file": "src/styles.scss",
-        "hash": "14727710659364488608"
+        "hash": "17947037602332331087"
       },
       {
         "file": "src/theme/variables.css",
